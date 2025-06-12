@@ -1,0 +1,9 @@
+# Requirements for Movie Recommender System using Topic Modeling
+streamlit>=1.25.0
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+requests>=2.28.0
+nltk
+sentence-transformers
