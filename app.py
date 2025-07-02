@@ -2,11 +2,11 @@
 app.py
 Streamlit web app for the Movie Recommender System using Topic Modeling
 """
-import os
+iimport os
 os.environ["STREAMLIT_WATCHER_IGNORE_PACKAGES"] = "true"
 
-import streamlit as st
-import pandas as pd
+iimport streamlit as st
+iimport pandas as pd
 import requests
 import json
 from movie_recommender import preprocess, build_topic_model, recommend_movies
