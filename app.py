@@ -2,7 +2,7 @@
 app.py
 Streamlit web app for the Movie Recommender System using Topic Modeling
 """
-iimport os
+import os
 os.environ["STREAMLIT_WATCHER_IGNORE_PACKAGES"] = "true"
 
 iimport streamlit as st
